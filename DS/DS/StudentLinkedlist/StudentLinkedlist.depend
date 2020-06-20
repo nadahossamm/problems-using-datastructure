@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1589481172 source:c:\users\hossam mohamed\desktop\studentlinkedlist\main.cpp
+	<iostream>
+	"linkedlist.h"
+
+1589481234 c:\users\hossam mohamed\desktop\studentlinkedlist\include\linkedlist.h
+	<iostream>
+
+1590774343 source:c:\users\hossam mohamed\desktop\ds\studentlinkedlist\main.cpp
+	<iostream>
+	"linkedlist.h"
+
+1590774354 c:\users\hossam mohamed\desktop\ds\studentlinkedlist\include\linkedlist.h
+	<iostream>
+
